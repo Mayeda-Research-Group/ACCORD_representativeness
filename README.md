@@ -1,7 +1,6 @@
 # ACCORD_representativeness
 
-This repository contains code for the paper: Ikesu R, Wu Y, Zimmerman SC, Inoue K, Buto P, Power MC, Schaefer CA, Glymour MM, and Mayeda ER. Representativeness of participants
-in the ACCORD trial compared to middle-aged and older adults living with diabetes in the United States. Epidemiology. In press.
+This repository contains code for the paper: Ikesu R, Wu Y, Zimmerman SC, Inoue K, Buto P, Power MC, Schaefer CA, Glymour MM, and Mayeda ER.(2024). Representativeness of participants in the ACCORD trial compared to middle-aged and older adults living with diabetes in the United States. Epidemiology.;35(4):432–436.
 
 The contents are as follows:
 
